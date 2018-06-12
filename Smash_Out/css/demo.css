@@ -1,0 +1,22 @@
+.contact {
+    display: inline-block;
+    background: #c06014;
+    border-radius: 50px;
+    width: 100px;
+    text-align: center;
+    height: 100px;
+    transition: 0.3s;
+}
+.contact .fa {
+    margin: 23px;
+    color: #fff;
+    font-size: 50px;
+}
+.contact:hover{
+  width: 300px !important;
+  border-radius: 50px;
+  text-align: left;
+}
+ul{
+  list-style-type: none;
+}
